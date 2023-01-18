@@ -10,8 +10,6 @@ import json
 import numpy as np
 from datetime import datetime as dt
 
-## versão 2
-
 psat_files = '/home/josepaulo/demo-app3/psat_files'
 json_files = '/home/josepaulo/demo-app3/json_files'
 
